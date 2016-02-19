@@ -27,6 +27,7 @@ CGit_Test_ProjectApp::CGit_Test_ProjectApp()
 
 	// TODO: add construction code here,
 	// Place all significant initialization in InitInstance
+	//testcode 2
 }
 
 
