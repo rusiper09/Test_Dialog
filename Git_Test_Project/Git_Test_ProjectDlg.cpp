@@ -38,7 +38,6 @@ void CAboutDlg::DoDataExchange(CDataExchange* pDX)
 {
 	CDialogEx::DoDataExchange(pDX);
 	//test code
-	//test code : from jeonjh
 }
 
 BEGIN_MESSAGE_MAP(CAboutDlg, CDialogEx)
